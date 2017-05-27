@@ -1,4 +1,5 @@
 import json
+import urllib3
 import logging
 
 import telepot
@@ -10,6 +11,15 @@ from django.utils.decorators import method_decorator
 from django.conf import settings
 
 #from .utils import parse_planetpy_rss
+
+# You can leave this bit out if you're using a paid PythonAnywhere account
+proxy_url = "http://proxy.server:3128"
+telepot.api._pools = {
+    'default': urllib3.ProxyManager(proxy_url=proxy_url, num_pools=3, maxsize=10, retries=False, timeout=30),
+}
+telepot.api._onetime_pool_spec = (urllib3.ProxyManager, dict(proxy_url=proxy_url, num_pools=1, maxsize=1, retries=False, timeout=30))
+# end of the stuff that's only needed for free accounts
+
 
 TelegramBot = telepot.Bot(settings.TELEGRAM_BOT_TOKEN)
 
