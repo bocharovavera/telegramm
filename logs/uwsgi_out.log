@@ -1,0 +1,1852 @@
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 12:54:13 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1e68580
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+ImportError: No module named 'deltaru'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31623)
+spawned uWSGI worker 1 (pid: 31624, cores: 1)
+unable to stat() /tmp/delta.reload, events will be triggered as soon as the file is created
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 31677)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:10:29 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1fe3580
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+ImportError: No module named 'deltaru'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31799)
+spawned uWSGI worker 1 (pid: 31800, cores: 1)
+unable to stat() /tmp/delta.reload, events will be triggered as soon as the file is created
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:14:17 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x268d580
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+ImportError: No module named 'deltaru'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31880)
+spawned uWSGI worker 1 (pid: 31881, cores: 1)
+unable to stat() /tmp/delta.reload, events will be triggered as soon as the file is created
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:19:39 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1dfa580
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+ImportError: No module named 'deltaru'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31929)
+spawned uWSGI worker 1 (pid: 31930, cores: 1)
+unable to stat() /tmp/delta.reload, events will be triggered as soon as the file is created
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:25:07 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1956580
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+ImportError: No module named 'deltaru'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32004)
+spawned uWSGI worker 1 (pid: 32005, cores: 1)
+unable to stat() /tmp/delta.reload, events will be triggered as soon as the file is created
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:28:53 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x19284f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x19284f0 pid: 32082 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32082)
+spawned uWSGI worker 1 (pid: 32084, cores: 1)
+Invalid HTTP_HOST header: '194.87.93.29'. You may need to add '194.87.93.29' to ALLOWED_HOSTS.
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:29:41 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x16b34f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x16b34f0 pid: 32100 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32100)
+spawned uWSGI worker 1 (pid: 32102, cores: 1)
+Not Found: /
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon May 22 13:31:10 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+set additional group 27 (sudo)
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x18564f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x18564f0 pid: 32144 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32144)
+spawned uWSGI worker 1 (pid: 32146, cores: 1)
+Not Found: /
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32152)
+Not Found: /
+Not Found: /
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32304)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32307)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32308)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32384)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32517)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32578)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32645)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32676)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32679)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32683)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32720)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32723)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32774)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32875)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32948)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 32980)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33119)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33128)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33167)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33173)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33239)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33421)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33427)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33478)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33509)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33612)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33645)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33754)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33755)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33758)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33762)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33791)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33792)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33856)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33888)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33917)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33918)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33921)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33924)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 33958)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34015)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34186)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34239)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34366)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34439)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34649)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 34918)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35052)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35177)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35356)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35509)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35565)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35684)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35723)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35778)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35815)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35868)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35942)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35947)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 35952)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36027)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36097)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36228)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36274)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36319)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36348)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36420)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36429)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36606)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36684)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36725)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36726)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36755)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36884)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36917)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 36933)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37048)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37091)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37095)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37099)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37133)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37139)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37142)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37175)
+Invalid HTTP_HOST header: 'www.simproject.ru'. You may need to add 'www.simproject.ru' to ALLOWED_HOSTS.
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37266)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37269)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37272)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37306)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37307)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37310)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37315)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37345)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37434)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37448)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37451)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37482)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37485)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37486)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37517)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37809)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 37954)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38025)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38072)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38165)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38170)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38216)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38293)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38316)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38389)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38482)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38513)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38605)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38606)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38639)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38772)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38774)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38821)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 38941)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39008)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39016)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39017)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39048)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39053)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39057)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39107)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39200)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39283)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39414)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39451)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39470)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39471)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39474)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39597)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39609)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39636)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39662)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39693)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39696)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39759)
+worker 1 lifetime reached, it was running for 602 second(s)
+Respawned uWSGI worker 1 (new pid: 39786)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39863)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39907)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39918)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 39971)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40086)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40127)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40132)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40166)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40334)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40339)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40464)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40561)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40738)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40974)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 40993)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41070)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41093)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41102)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41178)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41348)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41544)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41606)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41609)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41614)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41693)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41745)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41834)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41848)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 41885)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42014)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42042)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42106)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42111)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42143)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42188)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42191)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42318)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42326)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42333)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42334)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42365)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42378)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42447)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42585)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42588)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42679)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42692)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42771)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42779)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42785)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42793)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42840)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 42929)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43018)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43065)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43171)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43177)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43178)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43181)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43184)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43325)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43337)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43340)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43383)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43439)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43442)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43445)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43599)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43622)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43623)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43672)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43675)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43768)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43778)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43879)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 43981)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44071)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44216)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44283)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44368)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44545)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44602)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44711)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44770)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44829)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44900)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 44955)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45014)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45055)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45060)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45068)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45160)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45161)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45208)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45211)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45212)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45295)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45343)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45463)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45516)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45559)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45564)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 45613)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46056)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46082)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46125)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46161)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46201)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46236)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46278)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46317)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46377)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46481)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46522)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46565)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46609)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46646)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46683)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46730)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46780)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46821)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 46953)
+Not Found: /
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Wed May 24 09:34:16 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+set additional group 27 (sudo)
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1fe64f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1fe64f0 pid: 47164 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47164)
+spawned uWSGI worker 1 (pid: 47166, cores: 1)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47203)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47246)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47313)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47358)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47404)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47495)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47498)
+Not Found: /
+Not Found: /
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47503)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47506)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /tmp/bocharova.bot.sock removed.
+[uWSGI] getting INI configuration from /home/bocharova/projects/bot/mybot/misc/mybot.uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Wed May 24 11:10:09 2017] ***
+compiled with version: 5.4.0 20160609 on 22 May 2017 12:13:29
+os: Linux-4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+writing pidfile to /tmp/bocharova.bot.pid
+detected binary path: /home/bocharova/.virtualenvs/telegram/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+setgid() to 1000
+set additional group 27 (sudo)
+setuid() to 1000
+chdir() to /home/bocharova/projects/bot/mybot/
+your processes number limit is 1767
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/bocharova.bot.sock fd 3
+Python version: 3.5.2 (default, Nov 17 2016, 17:05:23)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/bocharova/.virtualenvs/telegram/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xb454f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+added /home/bocharova/projects/bot/mybot/ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0xb454f0 pid: 47513 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47513)
+spawned uWSGI worker 1 (pid: 47515, cores: 1)
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47655)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47854)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47941)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 47980)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 48039)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50651)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50741)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50746)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50749)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50752)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50755)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50844)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50850)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 50893)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51132)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51391)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51632)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51767)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51825)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 51898)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52123)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52322)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52409)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52438)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52520)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52557)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52659)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52730)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52873)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52902)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52949)
+Not Found: /recordings/index.php
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 52990)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53014)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53071)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53166)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53229)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53268)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53383)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53394)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53477)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53538)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53571)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53841)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53922)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53967)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 53973)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54026)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54121)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54209)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54288)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54511)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54752)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54815)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 54888)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55006)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55031)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55034)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55037)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55066)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55161)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55169)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55198)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55201)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55208)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55216)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55249)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55293)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55426)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55429)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55463)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55571)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55616)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55662)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55676)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55707)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55824)
+Invalid HTTP_HOST header: 'simproject.ru'. You may need to add 'simproject.ru' to ALLOWED_HOSTS.
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55895)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 55900)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56090)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56181)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56254)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56284)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56359)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56490)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56498)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56531)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56572)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56573)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56576)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56655)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56701)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56754)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56835)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56888)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56897)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56902)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56935)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56940)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 56941)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57029)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57104)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57106)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57137)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57163)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57269)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57286)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57357)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57422)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57503)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57504)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57506)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57542)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57593)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57725)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 57756)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58007)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58409)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58410)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58422)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58451)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58458)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58543)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58661)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58718)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58721)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58820)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58876)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58927)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 58982)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59040)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59097)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59345)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59408)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59455)
+Not Found: /robots.txt
+Thu May 25 06:37:26 2017 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /robots.txt (ip 137.116.71.170) !!!
+Thu May 25 06:37:26 2017 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 296] during GET /robots.txt (137.116.71.170)
+OSError: write error
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59550)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59663)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59664)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59667)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59718)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59797)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59838)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59871)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59896)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 59959)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60025)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60026)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60141)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60259)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60305)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60308)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60344)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60347)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60403)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60448)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60551)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60556)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60588)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60589)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60628)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60695)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60750)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60913)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 60938)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61013)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61016)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61021)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61048)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61087)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61111)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61116)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61205)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61298)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61299)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61378)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61384)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61415)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61418)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61419)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61657)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61666)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61670)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61693)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61786)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61787)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61788)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61791)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 61825)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62207)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62215)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62216)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62245)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62251)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62252)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62281)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62284)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62285)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62286)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62322)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62323)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62412)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62415)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62444)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62447)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62454)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62455)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62456)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62489)
+Not Found: /nice ports,/Trinity.txt.bak
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62524)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62577)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62581)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62760)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62761)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62762)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62763)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62801)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62805)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62892)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62923)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62926)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62927)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62930)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 62963)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63050)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63051)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63054)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63083)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63086)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63094)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63095)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63126)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63127)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63240)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63474)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63605)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63606)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63661)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63724)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63801)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 63914)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64006)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64157)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64203)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64323)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64344)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64513)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64543)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64655)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64761)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64838)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 64992)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 65126)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 65230)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 65424)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 65475)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 65532)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 319)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 369)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 771)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 980)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 991)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1009)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1124)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1127)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1131)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1156)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1185)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1213)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1279)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1284)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1376)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1453)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1460)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1461)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1536)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1537)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1646)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1679)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1728)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1731)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1822)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1914)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1942)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 1986)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2057)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2106)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2196)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2199)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2211)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2242)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2244)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2247)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2250)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2291)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2375)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2379)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2444)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2445)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2448)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2450)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2492)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2531)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2534)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2653)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2829)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2850)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2880)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2929)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2964)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2965)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2967)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 2998)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3172)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3317)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3368)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3452)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3484)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3491)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3631)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3716)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3765)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3876)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3901)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 3996)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4042)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4081)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4082)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4111)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4168)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4422)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4530)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4694)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4775)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4871)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4900)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4905)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 4909)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5119)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5131)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5134)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5165)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5202)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5266)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5313)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5481)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5572)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5725)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5804)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 5942)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6007)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6132)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6230)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6327)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6477)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6717)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6849)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 6922)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7059)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7213)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7284)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7404)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7513)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7688)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7755)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7826)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 7921)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8029)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8182)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8295)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8388)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8491)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8592)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8723)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8858)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 8969)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9038)
+Not Found: /
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9133)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9200)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9317)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9471)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9601)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9709)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9846)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 9914)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10016)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10083)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10150)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10339)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10431)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10494)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10559)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10649)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10672)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10728)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10878)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 10972)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11042)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11218)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11315)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11376)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11485)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11540)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11545)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 11964)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12033)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12172)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12203)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12274)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12316)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12445)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12494)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12533)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12588)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12639)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12662)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12763)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12784)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12825)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12884)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 12985)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13063)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13315)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13318)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13506)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13572)
+Not Found: /current_config/Account1
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13577)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13583)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13696)
+worker 1 lifetime reached, it was running for 601 second(s)
+Respawned uWSGI worker 1 (new pid: 13788)
