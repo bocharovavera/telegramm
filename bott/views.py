@@ -1,6 +1,7 @@
 import json
-import logging
 import urllib3
+import logging
+
 import telepot
 from django.template.loader import render_to_string
 from django.http import HttpResponseForbidden, HttpResponseBadRequest, JsonResponse
@@ -18,6 +19,7 @@ telepot.api._pools = {
 }
 telepot.api._onetime_pool_spec = (urllib3.ProxyManager, dict(proxy_url=proxy_url, num_pools=1, maxsize=1, retries=False, timeout=30))
 # end of the stuff that's only needed for free accounts
+
 
 TelegramBot = telepot.Bot(settings.TELEGRAM_BOT_TOKEN)
 
@@ -67,5 +69,3 @@ class CommandReceiveView(View):
     @method_decorator(csrf_exempt)
     def dispatch(self, request, *args, **kwargs):
         return super(CommandReceiveView, self).dispatch(request, *args, **kwargs)
-
-
